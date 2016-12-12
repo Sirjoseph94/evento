@@ -32,6 +32,10 @@ With Evento you can easily publish and manage your events online, create single 
 
 See the documentation for more detailed instructions.
 
+## Translations
+
+See the [mnlg/evento-languages](https://github.com/mnlg/evento-languages) repository.
+
 ## License
 
 Evento uses the MIT License:  [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
